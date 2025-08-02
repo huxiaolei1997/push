@@ -22,7 +22,7 @@ app_secret = 'c14d943f9bcd752943c1d10fc6b60776'
 # birthdays = os.environ["BIRTHDAY"].split(',')
 
 user_ids = 'onbfH6vz6u3fWReh0wPjfAdny2yw'.split(',')
-template_ids = '6G6Szvcoqk19_wrimh6Sf97DoNBdYe4Trmr7uL_-zMw'.split(',')
+template_ids = 'E81x2iNPpVBRtKiIt_ldKr9Dn_Hi24-XCkUuPmzf_pk'.split(',')
 citys = '330108'.split(',')
 start_dates = '2025-05-18'.split(',')
 birthdays = '04-16'.split(',')
