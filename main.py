@@ -81,7 +81,7 @@ def get_city_date_v2():
 
 def get_count(start_date):
     delta = today - datetime.strptime(start_date, "%Y-%m-%d")
-    return delta.days + 1
+    return delta.days
 
 
 
