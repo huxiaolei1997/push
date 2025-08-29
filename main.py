@@ -23,7 +23,7 @@ app_secret = 'c14d943f9bcd752943c1d10fc6b60776'
 # start_dates = os.environ["START_DATE"].split(',')
 # birthdays = os.environ["BIRTHDAY"].split(',')
 
-user_ids = 'onbfH6lJGju2dBhqfmKhk_nzELIk'.split(',')
+user_ids = 'onbfH6vz6u3fWReh0wPjfAdny2yw'.split(',')
 # template_ids = 'E81x2iNPpVBRtKiIt_ldKr9Dn_Hi24-XCkUuPmzf_pk'.split(',')
 template_id_configs = {
     "0518": "a5qcj3Be31BJN4bemOPCRblIfYqEZIwrg1Dt57K-gaU",
